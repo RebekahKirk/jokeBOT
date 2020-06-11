@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/jokeBOT/static/css/main.6fd440ee.chunk.css",
-    "main.js": "/jokeBOT/static/js/main.98bfee21.chunk.js",
-    "main.js.map": "/jokeBOT/static/js/main.98bfee21.chunk.js.map",
+    "main.js": "/jokeBOT/static/js/main.f65956ee.chunk.js",
+    "main.js.map": "/jokeBOT/static/js/main.f65956ee.chunk.js.map",
     "runtime-main.js": "/jokeBOT/static/js/runtime-main.0b241573.js",
     "runtime-main.js.map": "/jokeBOT/static/js/runtime-main.0b241573.js.map",
-    "static/js/2.918b2f57.chunk.js": "/jokeBOT/static/js/2.918b2f57.chunk.js",
-    "static/js/2.918b2f57.chunk.js.map": "/jokeBOT/static/js/2.918b2f57.chunk.js.map",
+    "static/js/2.410dc2a4.chunk.js": "/jokeBOT/static/js/2.410dc2a4.chunk.js",
+    "static/js/2.410dc2a4.chunk.js.map": "/jokeBOT/static/js/2.410dc2a4.chunk.js.map",
     "index.html": "/jokeBOT/index.html",
-    "precache-manifest.0447e619e2d5d8907f3dcb7688ef166d.js": "/jokeBOT/precache-manifest.0447e619e2d5d8907f3dcb7688ef166d.js",
+    "precache-manifest.071fc6260ac78f41e179a2eea541d948.js": "/jokeBOT/precache-manifest.071fc6260ac78f41e179a2eea541d948.js",
     "service-worker.js": "/jokeBOT/service-worker.js",
     "static/css/main.6fd440ee.chunk.css.map": "/jokeBOT/static/css/main.6fd440ee.chunk.css.map",
-    "static/js/2.918b2f57.chunk.js.LICENSE.txt": "/jokeBOT/static/js/2.918b2f57.chunk.js.LICENSE.txt"
+    "static/js/2.410dc2a4.chunk.js.LICENSE.txt": "/jokeBOT/static/js/2.410dc2a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b241573.js",
-    "static/js/2.918b2f57.chunk.js",
+    "static/js/2.410dc2a4.chunk.js",
     "static/css/main.6fd440ee.chunk.css",
-    "static/js/main.98bfee21.chunk.js"
+    "static/js/main.f65956ee.chunk.js"
   ]
 }
