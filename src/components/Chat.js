@@ -56,19 +56,7 @@ class Chat extends Component {
                 id: '7',
                 message: 'Ok, come back when you want to have your funny bone tickled!',
                 end: true,
-            },
-            // {
-            //     id: '8',
-            //     message: 'Would you like to hear another joke?',
-            //     trigger: '9',
-            // },
-            // {
-            //     id: '9',
-            //     options: [
-            //         { value: 1, label: 'Yes', trigger: '6' },
-            //         { value: 2, label: 'No', trigger: '7' },
-            //     ]
-            // },
+            }
           ]
     }
 
@@ -79,11 +67,11 @@ class Chat extends Component {
     handleFetch = async () => {
         let newJoke = ""
 
-        await fetch('https://sv443.net/jokeapi/v2/joke/Any?type=single')
+        await fetch('http://api.icndb.com/jokes/random')
             .then(res => res.json())
             .then(data => {
-                newJoke = data.joke; 
-                this.setState({ joke: data.joke })
+                newJoke = data.value.joke; 
+                this.setState({ joke: newJoke })
             })
 
         let newSteps = this.state.steps
