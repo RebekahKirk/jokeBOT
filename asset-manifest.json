@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/RebekahKirk/jokeBOT.git/static/css/main.6fd440ee.chunk.css",
-    "main.js": "/RebekahKirk/jokeBOT.git/static/js/main.56a2cc9a.chunk.js",
-    "main.js.map": "/RebekahKirk/jokeBOT.git/static/js/main.56a2cc9a.chunk.js.map",
-    "runtime-main.js": "/RebekahKirk/jokeBOT.git/static/js/runtime-main.eb6cf1ca.js",
-    "runtime-main.js.map": "/RebekahKirk/jokeBOT.git/static/js/runtime-main.eb6cf1ca.js.map",
-    "static/js/2.fc494ab5.chunk.js": "/RebekahKirk/jokeBOT.git/static/js/2.fc494ab5.chunk.js",
-    "static/js/2.fc494ab5.chunk.js.map": "/RebekahKirk/jokeBOT.git/static/js/2.fc494ab5.chunk.js.map",
-    "index.html": "/RebekahKirk/jokeBOT.git/index.html",
-    "precache-manifest.76c99d6d26451d365e97027a61c2dcfc.js": "/RebekahKirk/jokeBOT.git/precache-manifest.76c99d6d26451d365e97027a61c2dcfc.js",
-    "service-worker.js": "/RebekahKirk/jokeBOT.git/service-worker.js",
-    "static/css/main.6fd440ee.chunk.css.map": "/RebekahKirk/jokeBOT.git/static/css/main.6fd440ee.chunk.css.map",
-    "static/js/2.fc494ab5.chunk.js.LICENSE.txt": "/RebekahKirk/jokeBOT.git/static/js/2.fc494ab5.chunk.js.LICENSE.txt"
+    "main.css": "/jokeBOT/static/css/main.6fd440ee.chunk.css",
+    "main.js": "/jokeBOT/static/js/main.98bfee21.chunk.js",
+    "main.js.map": "/jokeBOT/static/js/main.98bfee21.chunk.js.map",
+    "runtime-main.js": "/jokeBOT/static/js/runtime-main.0b241573.js",
+    "runtime-main.js.map": "/jokeBOT/static/js/runtime-main.0b241573.js.map",
+    "static/js/2.918b2f57.chunk.js": "/jokeBOT/static/js/2.918b2f57.chunk.js",
+    "static/js/2.918b2f57.chunk.js.map": "/jokeBOT/static/js/2.918b2f57.chunk.js.map",
+    "index.html": "/jokeBOT/index.html",
+    "precache-manifest.0447e619e2d5d8907f3dcb7688ef166d.js": "/jokeBOT/precache-manifest.0447e619e2d5d8907f3dcb7688ef166d.js",
+    "service-worker.js": "/jokeBOT/service-worker.js",
+    "static/css/main.6fd440ee.chunk.css.map": "/jokeBOT/static/css/main.6fd440ee.chunk.css.map",
+    "static/js/2.918b2f57.chunk.js.LICENSE.txt": "/jokeBOT/static/js/2.918b2f57.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb6cf1ca.js",
-    "static/js/2.fc494ab5.chunk.js",
+    "static/js/runtime-main.0b241573.js",
+    "static/js/2.918b2f57.chunk.js",
     "static/css/main.6fd440ee.chunk.css",
-    "static/js/main.56a2cc9a.chunk.js"
+    "static/js/main.98bfee21.chunk.js"
   ]
 }
